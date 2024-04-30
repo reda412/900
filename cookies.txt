@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.yandex.ru	TRUE	/	FALSE	1999999999	i	38rW/oBDf9WYVQYZNE9WMihQraSPiEoPi0vIwLqXNZlCaAtKow5X9riiqiLJFsgObC6BI/dcCI9nXeKHhqnHfP4z6jE=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	3152654941714480171
+.yandex.ru	TRUE	/	FALSE	1999999999	yashr	6348252791714480171
+
